@@ -1,4 +1,4 @@
-import { ApiService } from '../../../../../nodets/training-node-ts-openweather-api/dist';
+import { ApiService } from '@mugan86/openweather-api';
 import { Injectable } from '@angular/core';
 
 @Injectable({
