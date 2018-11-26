@@ -1,7 +1,7 @@
-import { FindType } from './../../../../nodets/training-node-ts-openweather-api/lib/classes/enums/find-type.enum';
-import { Result } from './../../../../nodets/training-node-ts-openweather-api/lib/classes/interfaces/api.interface';
+import { FindType, Result } from '@mugan86/openweather-api';
 import { CurrentWeatherService } from './services/current-weather.service';
 import { Component } from '@angular/core';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
